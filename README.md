@@ -169,10 +169,6 @@ They help teams deliver updates faster, maintain code quality, and catch bugs ea
 - **Unit Tests** for maintaining code reliability.  
 
 ---
-
-
-
-**⏰ Important Reminder:**  
-If the submission deadline passes, you will not be able to generate a review link. Always submit your work early to avoid disqualification.  
+  
 
 
